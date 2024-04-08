@@ -27,7 +27,6 @@ Feedback is provided in terms of heuristic function
 </ol>
 
 </p>
-<hr>
 <h3> Steps Applied:</h3>
 <h3>Step-1</h3>
 <p> Generate Random String of the length equal to the given String</p>
